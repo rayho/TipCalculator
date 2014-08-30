@@ -1,0 +1,4 @@
+TipCalculator
+=============
+
+Fun with Swift.
